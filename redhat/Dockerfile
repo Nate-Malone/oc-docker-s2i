@@ -1,5 +1,5 @@
 # simple dockerfile to test OCP s2i using Dockerfile 
-# test buildConfig trigger
+# test buildConfig trigger again
 
 FROM registry.access.redhat.com/ubi7:latest
 
